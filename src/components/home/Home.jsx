@@ -22,16 +22,16 @@ export const Home = () => {
   <p className='home__job'>
         <span className='text-cs'>I'm an aspiring</span> <b>full stack Software Engineer</b>
       </p>
-
+      
       <p className='home__text'>
         Originally from the Dominican Republic. I am currently a computer science senior
         at Florida International University. 
       </p>
 
       <div className="home__btns">
-            <a href="" className="btn">Download CV</a>
+            <a href="" className="btn text-cs">Download Resume</a>
 
-            <a href="" className="hero__link">My Skills</a>
+            <a href="" className="hero__link text-cs">My Skills</a>
       
 </div>
 </div>
